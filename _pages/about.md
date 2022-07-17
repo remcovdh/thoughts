@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Remco
+title: About me
 permalink: /about/
 ---
 
-Remco is loving coding paradigma's, deep learning, artifical intelligence, event driven architectures, next to other old and new technics.
+I am loving coding paradigma's, deep learning, artifical intelligence, event driven architectures, next to other old and new technics.
 
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
