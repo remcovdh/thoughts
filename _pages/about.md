@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am loving coding paradigma's, deep learning, artifical intelligence, event driven architectures, next to other old and new technics.
+I am loving coding paradigma's, deep learning, artifical intelligence, event driven architectures, next to many old and new things.
 
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
